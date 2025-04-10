@@ -27,6 +27,15 @@
 python server.py
 ```
 
+Development Modeで起動するには：
+
+```bash
+# 基本的な起動方法
+mcp dev server.py
+```
+
+Development ModeではMCPインスペクターを使用したデバッグが可能です
+
 ## ライセンス
 
 MIT License - 詳細は[LICENSE](LICENSE)ファイルを参照してください。
