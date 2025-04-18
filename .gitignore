@@ -35,3 +35,6 @@ coverage.xml
 # Project specific
 *.log
 .DS_Store
+
+# SpecStory
+.specstory
